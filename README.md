@@ -4,15 +4,15 @@
 
 ## Endpoints
 
-  Listar todos os filmes
-  Retorna uma lista com todos os filmes cadastrados.
-  ```GET /movies```
+  * Listar todos os filmes
+  * Retorna uma lista com todos os filmes cadastrados.
+    ```GET /movies```
 
 ## Parâmetros de filtro opcionais:
 
-  genre - Filtra os filmes por gênero.
-  country - Filtra os filmes por país.
-  year - Filtra os filmes por ano de lançamento.
+  * genre - Filtra os filmes por gênero
+  * country - Filtra os filmes por país
+  * year - Filtra os filmes por ano de lançamento
 
   ### Exemplo de resposta:
 
@@ -60,9 +60,9 @@
     ```
 
 # Tecnologias
-  Ruby 3.0.0
-  Rails 6.1.3
-  SQLite 3
+  * Ruby 3.0.0
+  * Rails 6.1.3
+  * SQLite 3
 
 # Instalação
 
